@@ -1,11 +1,11 @@
 
-![](Aspose.Words.5d21c4eb-43ab-4635-8c9d-4af184acaf8a.001.png)<a name="page1"></a>     	Android developer, **12+ years** experience
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAg8AAAABCAYAAABZsE37AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAACRJREFUSIljbK8t+n/p3EmGUTAKRsEoGAWjYBSMAkJg+dajjAAcvgcClb2hKgAAAABJRU5ErkJggg==)<a name="page1"></a>     	Android developer, **12+ years** experience
 
-<a name="_hlt191371833"></a><a name="_hlt191371834"></a><a name="_hlt191371835"></a>        <a name="_hlt191372500"></a> [ILYA SHKNAI](https://www.linkedin.com/in/ilya-shknai/)	<a name="_hlt191076143"></a><a name="_hlt191372557"></a>[+48 (696) 353-415](callto:+48696353415) Poland, GMT+1
+`         `[ILYA SHKNAI](https://www.linkedin.com/in/ilya-shknai/)	[+48 (696) 353-415](callto:+48696353415) Poland, GMT+1
 
-![](Aspose.Words.5d21c4eb-43ab-4635-8c9d-4af184acaf8a.002.png)
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAg4AAAADCAYAAAD7uofOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADNJREFUWIXt1rERABAQAEGULBerTfKBhiiBzJjZreDCy73VNWMkAICT8joAAPiHcQAArm1kvgTksOJnEAAAAABJRU5ErkJggg==)
 
-<a name="_hlt191371936"></a><ilya.shknaj@gmail.com>	[LinkedIn](https://www.linkedin.com/in/ilya-shknai/)	<a name="_hlt191372487"></a>[Github](https://github.com/ilya-shknaj)
+<ilya.shknaj@gmail.com>	[LinkedIn](https://www.linkedin.com/in/ilya-shknai/)	[Github](https://github.com/ilya-shknaj)
 
 
 ABOUT
@@ -31,7 +31,7 @@ EXPERIENCE
 
 - **Technologies**: Kotlin, KMM, Coroutines, Flow, MVVM, Room, Dagger, OkHttp, Glide
 
-<a name="_hlt191331831"></a><a name="_hlt191331835"></a>[LIBERTY GLOBAL](https://play.google.com/store/apps/details?id=com.lgi.ziggotv) (Flutter. Video Streaming app): 02/2020 - 02/2024, 4 YEARS
+[LIBERTY GLOBAL](https://play.google.com/store/apps/details?id=com.lgi.ziggotv) (Flutter. Video Streaming app): 02/2020 - 02/2024, 4 YEARS
 
 - Increased unit test coverage from **59.2%** to **70.01%** to reduce customer-reported bugs.
 
