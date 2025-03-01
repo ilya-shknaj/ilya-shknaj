@@ -1,19 +1,19 @@
 
 Android developer, **12+ years** experience
 
-ABOUT
+**ABOUT**
 
 Android developer with **12 years** of commercial experience, working in teams ranging from 2 to 100 members, both remotely and on-site. Have 6 years of **team-leading** experience. Built full cycle of development: from gathering product owner requirements to establishing fully automated release process with high test coverage, detailed analytics and CI/CD. Expert in troubleshooting and performance optimization.
 
 Passionate about crafting high-quality Android applications with a focus on performance, scalability, and user experience. I enjoy educating and inspiring developers at all stages, from beginners to experienced professionals.
 
-SKILLS
+**SKILLS**
 
 **Android**: Kotlin, Java, KMM, Flutter, AndroidTV, Jetpack, Jetpack compose, Coroutines, Flow, Room, Dagger 2, Koin, Retrofit , MVVM, MVI, Clean architecture, ExoPlayer, Espresso, Mockito,  OkHttp, Glide, REST API, Gradle, Multi-module, Android architecture components, Firebase, Crashlytics, GraphQL, SQLite, Junit, FireTV, RxJava, Threads, Services, KMP, DRM, Dash, Video streaming, multi-threading, concurrency
 
 **Other**: Fastlane, Jenkins, TeamCity, Git
 
-EXPERIENCE
+**EXPERIENCE**
 
 [EPAM SYSTEMS](https://epam.com/) (Android. KMM. Video Streaming app): 02/2024 - PRESENT, 1+ YEAR
 
