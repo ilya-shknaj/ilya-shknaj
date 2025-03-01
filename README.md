@@ -1,12 +1,5 @@
 
-![](Aspose.Words.5d21c4eb-43ab-4635-8c9d-4af184acaf8a.001.png)<a name="page1"></a>     	Android developer, **12+ years** experience
-
-<a name="_hlt191371833"></a><a name="_hlt191371834"></a><a name="_hlt191371835"></a>        <a name="_hlt191372500"></a> [ILYA SHKNAI](https://www.linkedin.com/in/ilya-shknai/)	<a name="_hlt191076143"></a><a name="_hlt191372557"></a>[+48 (696) 353-415](callto:+48696353415) Poland, GMT+1
-
-![](Aspose.Words.5d21c4eb-43ab-4635-8c9d-4af184acaf8a.002.png)
-
-<a name="_hlt191371936"></a><ilya.shknaj@gmail.com>	[LinkedIn](https://www.linkedin.com/in/ilya-shknai/)	<a name="_hlt191372487"></a>[Github](https://github.com/ilya-shknaj)
-
+Android developer, **12+ years** experience
 
 ABOUT
 
