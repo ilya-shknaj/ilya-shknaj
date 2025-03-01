@@ -1,66 +1,103 @@
+> ![](./image1.png){width="5.479861111111111in"
+> height="6.944444444444444e-3in"} Android developer, **12+ years**
+> experience
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAg8AAAABCAYAAABZsE37AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAACRJREFUSIljbK8t+n/p3EmGUTAKRsEoGAWjYBSMAkJg+dajjAAcvgcClb2hKgAAAABJRU5ErkJggg==)<a name="page1"></a>     	Android developer, **12+ years** experience
+[[ILYA SHKNAI](https://www.linkedin.com/in/ilya-shknai/)]{.underline}
+[[+48 (696) 353-415](callto:+48696353415)]{.underline} Poland, GMT+1
 
-`         `[ILYA SHKNAI](https://www.linkedin.com/in/ilya-shknai/)	[+48 (696) 353-415](callto:+48696353415) Poland, GMT+1
+![](./image2.png){width="5.475in"
+height="2.7777777777777776e-2in"}
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAg4AAAADCAYAAAD7uofOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADNJREFUWIXt1rERABAQAEGULBerTfKBhiiBzJjZreDCy73VNWMkAICT8joAAPiHcQAArm1kvgTksOJnEAAAAABJRU5ErkJggg==)
-
-<ilya.shknaj@gmail.com>	[LinkedIn](https://www.linkedin.com/in/ilya-shknai/)	[Github](https://github.com/ilya-shknaj)
-
+> <ilya.shknaj@gmail.com>
+> [LinkedIn](https://www.linkedin.com/in/ilya-shknai/)
+> [[Github]{.underline}](https://github.com/ilya-shknaj)
 
 ABOUT
 
-Android developer with **12 years** of commercial experience, working in teams ranging from 2 to 100 members, both remotely and on-site. Have 6 years of **team-leading** experience. Built full cycle of development: from gathering product owner requirements to establishing fully automated release process with high test coverage, detailed analytics and CI/CD. Expert in troubleshooting and performance optimization.
-
-Passionate about crafting high-quality Android applications with a focus on performance, scalability, and user experience. I enjoy educating and inspiring developers at all stages, from beginners to experienced professionals.
+> Android developer with **12 years** of commercial experience, working
+> in teams ranging from 2 to 100 members, both remotely and on-site.
+> Have 6 years of **team-leading** experience. Built full cycle of
+> development: from gathering product owner requirements to establishing
+> fully automated release process with high test coverage, detailed
+> analytics and CI/CD. Expert in troubleshooting and performance
+> optimization.
+>
+> Passionate about crafting high-quality Android applications with a
+> focus on performance, scalability, and user experience. I enjoy
+> educating and inspiring developers at all stages, from beginners to
+> experienced professionals.
 
 SKILLS
 
-**Android**: Kotlin, Java, KMM, Flutter, AndroidTV, Jetpack, Jetpack compose, Coroutines, Flow, Room, Dagger 2, Koin, Retrofit , MVVM, MVI, Clean architecture, ExoPlayer, Espresso, Mockito,  OkHttp, Glide, REST API, Gradle, Multi-module, Android architecture components, Firebase, Crashlytics, GraphQL, SQLite, Junit, FireTV, RxJava, Threads, Services, KMP, DRM, Dash, Video streaming, multi-threading, concurrency
-
-**Other**: Fastlane, Jenkins, TeamCity, Git
+> **Android**: Kotlin, Java, KMM, Flutter, AndroidTV, Jetpack, Jetpack
+> compose, Coroutines, Flow, Room, Dagger 2, Koin, Retrofit , MVVM, MVI,
+> Clean architecture, ExoPlayer, Espresso, Mockito, OkHttp, Glide, REST
+> API, Gradle, Multi-module, Android architecture components, Firebase,
+> Crashlytics, GraphQL, SQLite, Junit, FireTV, RxJava, Threads,
+> Services, KMP, DRM, Dash, Video streaming, multi-threading,
+> concurrency
+>
+> **Other**: Fastlane, Jenkins, TeamCity, Git
 
 EXPERIENCE
 
-[EPAM SYSTEMS](https://epam.com/) (Android. KMM. Video Streaming app): 02/2024 - PRESENT, 1+ YEAR
+[[EPAM SYSTEMS]{.underline}](https://epam.com/) (Android. KMM. Video
+Streaming app): 02/2024 - PRESENT, 1+ YEAR
 
-- Improved application startup time from **28.5s** to **8.3s** and video player launch time from **6.6s** to **2.4s**.
+-   Improved application startup time from **28.5s** to **8.3s** and
+    > video player launch time from **6.6s** to **2.4s**.
 
-- Reviewed user feedback on Google Play, compiled a backlog of bugs, prioritized them, and fixed the top 15 issues, increasing the **app rating** from **3.4** to **3.9**.
-- Increased crash-free users rate from **86.2%** to **97.7%**
+-   Reviewed user feedback on Google Play, compiled a backlog of bugs,
+    > prioritized them, and fixed the top 15 issues, increasing the
+    > **app rating** from **3.4** to **3.9**.
 
-- **Technologies**: Kotlin, KMM, Coroutines, Flow, MVVM, Room, Dagger, OkHttp, Glide
+-   Increased crash-free users rate from **86.2%** to **97.7%**
 
-[LIBERTY GLOBAL](https://play.google.com/store/apps/details?id=com.lgi.ziggotv) (Flutter. Video Streaming app): 02/2020 - 02/2024, 4 YEARS
+-   **Technologies**: Kotlin, KMM, Coroutines, Flow, MVVM, Room, Dagger,
+    > OkHttp, Glide
 
-- Increased unit test coverage from **59.2%** to **70.01%** to reduce customer-reported bugs.
+[[LIBERTY
+GLOBAL]{.underline}](https://play.google.com/store/apps/details?id=com.lgi.ziggotv)
+(Flutter. Video Streaming app): 02/2020 - 02/2024, 4 YEARS
 
+-   Increased unit test coverage from **59.2%** to **70.01%** to reduce
+    > customer-reported bugs.
 
-- Integrated native (kotlin) code in performance-critical areas to maximize speed improvements, reducing Android player launch time from **4.5s** to **2.1s**.
+-   Integrated native (kotlin) code in performance-critical areas to
+    > maximize speed improvements, reducing Android player launch time
+    > from **4.5s** to **2.1s**.
 
-- Added screenshot tests to PR pipeline, reducing the number of UI bugs by **7%**.
-- **Technologies**: Flutter, Dart, Kotlin, Swift, ExoPlayer, AVPlayer, RxJava 
+-   Added screenshot tests to PR pipeline, reducing the number of UI
+    > bugs by **7%**.
 
-[LIBERTY GLOBAL](https://play.google.com/store/apps/details?id=com.lgi.ziggotv) (Android. Video Streaming app): 11/2015 - 02/2020, 4.5 YEARs
+-   **Technologies**: Flutter, Dart, Kotlin, Swift, ExoPlayer, AVPlayer,
+    > RxJava
 
-- Integrated advanced video advertisement, optimizing targeting and personalization. Increased CTR from **0%** to **1.8%**, boosting user engagement and ad revenue.
-- Added offline mode to the app, which increased the average user session duration by **17%**
-- Refactored a monolithic app into modular feature components, cutting compilation time from **143s** to **54s** and regression bugs by **7.5%**.
-- Set up a fully automated CI/CD build process, saving **3 hrs/wk**.
+[[LIBERTY
+GLOBAL]{.underline}](https://play.google.com/store/apps/details?id=com.lgi.ziggotv)
+(Android. Video Streaming app): 11/2015 - 02/2020, 4.5 YEARs
 
+-   Integrated advanced video advertisement, optimizing targeting and
+    > personalization. Increased CTR from **0%** to **1.8%**, boosting
+    > user engagement and ad revenue.
 
-**Technologies**: Koltin, Java, ExoPlayer, IrdetoPlayer, Penthera, Coroutines, MVVM, Koin
+-   Added offline mode to the app, which increased the average user
+    > session duration by **17%**
 
+-   Refactored a monolithic app into modular feature components, cutting
+    > compilation time from **143s** to **54s** and regression bugs by
+    > **7.5%**.
 
+-   Set up a fully automated CI/CD build process, saving **3 hrs/wk**.
 
+> **Technologies**: Koltin, Java, ExoPlayer, IrdetoPlayer, Penthera,
+> Coroutines, MVVM, Koin
 
+[[EPAM SYSTEMS]{.underline}](https://www.epam.com/): 2/2012 - 11/2015,
+3.5 YEARS
 
-[EPAM SYSTEMS](https://www.epam.com/): 2/2012 - 11/2015, 3.5 YEARS
+EDUCATION
 
-
-<a name="page2"></a>EDUCATION
-
-YANKA KUPALA, ST. GRODNO — BACHELOR, 2009 - 2014
+YANKA KUPALA, ST. GRODNO --- BACHELOR, 2009 - 2014
 
 Information and computer science
-
